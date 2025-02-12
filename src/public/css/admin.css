@@ -1,0 +1,69 @@
+.header {
+  border-bottom: 1px solid;
+  display: flex;
+  justify-content: center;
+}
+
+.header-ttl {
+  text-align: center;
+  margin: 0 auto;
+  color: #800000;
+}
+
+.logout {
+  text-align: right;
+  margin-right: 20px;
+}
+
+.admin__content{
+margin: 0 auto;
+padding: 30px 15px;
+max-width: 1230px;
+}
+
+.admin__heading {
+  text-align: center;
+  color: #800000;
+}
+
+.search-menu {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.search-form {
+  display: flex;
+  justify-content: space-between;
+}
+
+.search-form__item {
+  margin-right: 120px;
+}
+
+.search-form__item-select {
+  margin-right: 120px;
+}
+
+.contact-table {
+  margin: 30px auto;
+  width: 70%;
+  text-align: center;
+}
+
+.contact-table__inner {
+  width: 100%;
+}
+
+.contact-table__row {
+  border-bottom: 1px solid #ddd;
+}
+
+.contact-table__header {
+  background-color: #800000;
+}
+
+.contact-table__header-span {
+  margin-right: 120px;
+  color: #fff;
+}

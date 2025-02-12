@@ -1,0 +1,21 @@
+.thanks {
+  position: relative;
+}
+
+.thanks__background {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    bottom: -50%;
+    right: -50%;
+    z-index: 0;
+}
+
+.thanks__inner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    bottom: -50%;
+    right: -50%;
+    z-index: 10;
+}
