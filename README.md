@@ -19,6 +19,9 @@ laravel環境構築
 * PHP 7.4.9
 * Laravel 8.0
 * MySQL 8.0.26
+
+## ER図
+![ER図を表示]("C:\Users\osusi\Downloads\.drawio.png")
  
 ## URL 
 * 開発環境:http://localhost/ 
