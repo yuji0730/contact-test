@@ -21,7 +21,7 @@ laravel環境構築
 * MySQL 8.0.26
 
 ## ER図
-![ER図を表示]("C:\Users\osusi\Downloads\.drawio.png")
+![Image](https://github.com/user-attachments/assets/df3b84ac-72b7-4c38-9752-527673a6e704)
  
 ## URL 
 * 開発環境:http://localhost/ 
